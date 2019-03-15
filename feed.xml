@@ -8,8 +8,30 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Thu, 14 Mar 2019 06:53:38 GMT</pubDate>
+    <pubDate>Fri, 15 Mar 2019 07:42:24 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>바쿠스에서 신입회원을 모집합니다!</title>
+      <link>https://bacchus.snucse.org/announcement/2019-03-15-recruit/</link>
+      <guid>https://bacchus.snucse.org/announcement/2019-03-15-recruit/</guid>
+      <pubDate>Fri, 15 Mar 2019 07:42:16 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.&lt;/p&gt;
+&lt;p&gt;바쿠스에서 2019년 봄학기 신입회원을 모집합니다!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;바쿠스란?&lt;br&gt;바쿠스는 302동 하드웨어 실습실 및 소프트웨어 실습실PC와 컴퓨터공학부 과방P
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>바쿠스에서 2019년 봄학기 신입회원을 모집합니다!</p><ul><li><p>바쿠스란?<br>바쿠스는 302동 하드웨어 실습실 및 소프트웨어 실습실PC와 컴퓨터공학부 과방PC, 실습 서버를 비롯한 20여 대의 서버와 이것들을 이용할 수 있는 통합계정을 관리하는 등 다양한 서비스를 컴퓨터공학부 구성원에게 제공하는 동아리입니다.</p></li><li><p>신입교육<br>지원하신 분들은 6개월간 준회원으로 교육을 받습니다! 리눅스에 대한 전반적인 교육과 리눅스에서 사용하는 Shell Script, 네트워크, DB 등에 대한 교육도 진행됩니다. 준회원 기간 종료 후 과제와 출석률 달성을 통해 정회원으로 승격됩니다.</p></li><li><p>지원방법<br>3월 29일(금)까지 설문조사(<a href="https://goo.gl/forms/JdWFWbNiChPw4cGV2)에" target="_blank" rel="noopener">https://goo.gl/forms/JdWFWbNiChPw4cGV2)에</a> 응답하시면 됩니다. 서울대 학생이면 누구나 지원 가능하니 부담 갖지 말고 신청해주세요!</p></li><li><p>OT 및 신환회<br>3월 30일(토) 4시에 짧은 OT와 뒤풀이가 있을 예정입니다&gt;&lt;</p></li></ul><p>많은 지원 부탁드려요~</p>]]></content:encoded>
+      
+      <comments>https://bacchus.snucse.org/announcement/2019-03-15-recruit/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>GPU 서버 계정 신청 안내</title>
@@ -197,26 +219,6 @@
       <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>2018년 봄학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.</p><ul><li>GTX 1080 서버<ul><li>asahi.snucse.org</li><li>bernini.snucse.org</li><li>cojito.snucse.org</li><li>derby.snucse.org</li><li>eggnog.snucse.org</li><li>faust.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: ubuntu 16.04 LTS</li><li>GPU: Nvidia Geforce GTX 1080</li><li>CPU: <a href="mailto:i7-7700@3.6GHz" target="_blank" rel="noopener">i7-7700@3.6GHz</a></li><li><p>RAM: 16GB</p></li><li><p>GTX 750Ti 서버</p><ul><li>chivas.snucse.org</li><li>regal.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: ubuntu 16.04 LTS</li><li>GPU: Nvidia Geforce GTX 750Ti</li><li>CPU: <a href="mailto:i7-4790@3.6GHz" target="_blank" rel="noopener">i7-4790@3.6GHz</a></li><li>RAM: 10GB</li></ul><p><a href="https://goo.gl/forms/rjasPbkMaucFZjx23" target="_blank" rel="noopener">이 설문조사</a>를 통해서 이용을 신청하실 수 있습니다.</p><p>모든 서버의 홈 디렉토리는 네트워크를 통해 공유되어 있으며, 사용자는 모든 서버에 접속이 가능합니다. 단, 한 사람이 서버를 독점하는 것을 방지하기 위해 한 번에 한 서버만을 사용하는 것을 허가합니다. 여러분의 양해 바랍니다. 보다 자세한 정보는 <a href="https://bacchus.snucse.org/etc/20180330-gpu-server/">이용 약관 및 안내</a>를 참고하여 주시기 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
       
       <comments>https://bacchus.snucse.org/announcement/20180330gpu/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>네트워크 중단 일정 안내</title>
-      <link>https://bacchus.snucse.org/announcement/20180323announce/</link>
-      <guid>https://bacchus.snucse.org/announcement/20180323announce/</guid>
-      <pubDate>Fri, 23 Mar 2018 06:56:58 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.&lt;/p&gt;
-&lt;p&gt;3월 26일(월) 공과대학 (301,310,311,312,313,314,316,330동) 네트워크 장비 교체로 인하여 네트워크가 중단됩니다.&lt;br&gt;26일 오후 7시부터 9시 반까
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>3월 26일(월) 공과대학 (301,310,311,312,313,314,316,330동) 네트워크 장비 교체로 인하여 네트워크가 중단됩니다.<br>26일 오후 7시부터 9시 반까지 301동 314호 (과방) 컴퓨터에서 로그인 및 로그아웃 시 데이터가  동기화되지 않을 수 있으니 주의바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
-      
-      <comments>https://bacchus.snucse.org/announcement/20180323announce/#disqus_thread</comments>
     </item>
     
   </channel>
