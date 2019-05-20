@@ -8,7 +8,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Fri, 15 Mar 2019 07:46:54 GMT</pubDate>
+    <pubDate>Mon, 20 May 2019 06:20:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -116,6 +116,26 @@
     </item>
     
     <item>
+      <title>302동 정전으로 인한 서비스 중단 안내</title>
+      <link>https://bacchus.snucse.org/announcement/20190520security/</link>
+      <guid>https://bacchus.snucse.org/announcement/20190520security/</guid>
+      <pubDate>Fri, 28 Dec 2018 18:48:28 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.&lt;/p&gt;
+&lt;p&gt;실습 서버 martini(martini.snucse.org)에서 ssh bruteforce 공격을 한 것으로 확인되어 오늘(5월 20일) 오후 1시 경부터 학외망과 martini
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>실습 서버 martini(martini.snucse.org)에서 ssh bruteforce 공격을 한 것으로 확인되어 오늘(5월 20일) 오후 1시 경부터 학외망과 martini간의 통신이 중앙전산원에 의해서 차단되었습니다.<br>문제가 해결되기 전까지는 실습 서버 mimosa(mimosa.snucse.org)를 경유하여 martini에 접속하여 주시길 바랍니다.</p><p>문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 주시기 바랍니다.<br>감사합니다.</p>]]></content:encoded>
+      
+      <comments>https://bacchus.snucse.org/announcement/20190520security/#disqus_thread</comments>
+    </item>
+    
+    <item>
       <title>martini 정상화 안내 및 보안 권고</title>
       <link>https://bacchus.snucse.org/announcement/20181217announce/</link>
       <guid>https://bacchus.snucse.org/announcement/20181217announce/</guid>
@@ -196,29 +216,6 @@
       <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>2018년 가을학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.</p><ul><li>GTX 1080 서버<ul><li>asahi.snucse.org</li><li>bernini.snucse.org</li><li>cojito.snucse.org</li><li>derby.snucse.org</li><li>eggnog.snucse.org</li><li>faust.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: Arch Linux</li><li>GPU: Nvidia Geforce GTX 1080</li><li>CPU: <a href="mailto:i7-7700@3.6GHz" target="_blank" rel="noopener">i7-7700@3.6GHz</a></li><li>RAM: 16GB</li></ul><p><a href="https://goo.gl/forms/Gl3wRmMkGOgql16B3" target="_blank" rel="noopener">이 설문조사</a>를 통해서 이용을 신청하실 수 있습니다.</p><p>모든 서버의 홈 디렉토리는 네트워크를 통해 공유되어 있으며, 사용자는 모든 서버에 접속이 가능합니다. 단, 한 사람이 서버를 독점하는 것을 방지하기 위해 한 번에 한 서버만을 사용하는 것을 허가합니다. 여러분의 양해 바랍니다. 보다 자세한 정보는 <a href="https://bacchus.snucse.org/etc/20181010-gpu-server/">이용 약관 및 안내</a>를 참고하여 주시기 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
       
       <comments>https://bacchus.snucse.org/announcement/20181010gpu/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>GPU 서버 계정 신청 안내</title>
-      <link>https://bacchus.snucse.org/announcement/20180330gpu/</link>
-      <guid>https://bacchus.snucse.org/announcement/20180330gpu/</guid>
-      <pubDate>Fri, 30 Mar 2018 09:39:42 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.&lt;/p&gt;
-&lt;p&gt;2018년 봄학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GTX 1080 서버&lt;ul&gt;
-&lt;li&gt;asahi.snucs
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>2018년 봄학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.</p><ul><li>GTX 1080 서버<ul><li>asahi.snucse.org</li><li>bernini.snucse.org</li><li>cojito.snucse.org</li><li>derby.snucse.org</li><li>eggnog.snucse.org</li><li>faust.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: ubuntu 16.04 LTS</li><li>GPU: Nvidia Geforce GTX 1080</li><li>CPU: <a href="mailto:i7-7700@3.6GHz" target="_blank" rel="noopener">i7-7700@3.6GHz</a></li><li><p>RAM: 16GB</p></li><li><p>GTX 750Ti 서버</p><ul><li>chivas.snucse.org</li><li>regal.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: ubuntu 16.04 LTS</li><li>GPU: Nvidia Geforce GTX 750Ti</li><li>CPU: <a href="mailto:i7-4790@3.6GHz" target="_blank" rel="noopener">i7-4790@3.6GHz</a></li><li>RAM: 10GB</li></ul><p><a href="https://goo.gl/forms/rjasPbkMaucFZjx23" target="_blank" rel="noopener">이 설문조사</a>를 통해서 이용을 신청하실 수 있습니다.</p><p>모든 서버의 홈 디렉토리는 네트워크를 통해 공유되어 있으며, 사용자는 모든 서버에 접속이 가능합니다. 단, 한 사람이 서버를 독점하는 것을 방지하기 위해 한 번에 한 서버만을 사용하는 것을 허가합니다. 여러분의 양해 바랍니다. 보다 자세한 정보는 <a href="https://bacchus.snucse.org/etc/20180330-gpu-server/">이용 약관 및 안내</a>를 참고하여 주시기 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
-      
-      <comments>https://bacchus.snucse.org/announcement/20180330gpu/#disqus_thread</comments>
     </item>
     
   </channel>
