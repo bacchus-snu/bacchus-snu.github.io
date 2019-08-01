@@ -8,8 +8,29 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Thu, 23 May 2019 07:35:22 GMT</pubDate>
+    <pubDate>Thu, 01 Aug 2019 07:46:30 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>컴퓨터공학부 통합계정 그룹 관리 시스템 사용 안내서</title>
+      <link>https://bacchus.snucse.org/etc/20190801-id-instructions/</link>
+      <guid>https://bacchus.snucse.org/etc/20190801-id-instructions/</guid>
+      <pubDate>Wed, 31 Jul 2019 15:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;ul&gt;
+&lt;li&gt;수업조교용: &lt;a href=&quot;/contents/id-group-system_ta.pdf&quot;&gt;id-group-system_ta.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;수강생용: &lt;a href=&quot;/contents/id-group-system_stud
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<ul><li>수업조교용: <a href="/contents/id-group-system_ta.pdf">id-group-system_ta.pdf</a></li><li>수강생용: <a href="/contents/id-group-system_students.pdf">id-group-system_students.pdf</a></li></ul>]]></content:encoded>
+      
+      <comments>https://bacchus.snucse.org/etc/20190801-id-instructions/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>마티니 서버 외부망 차단 안내</title>
@@ -193,29 +214,6 @@
       <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>최근 systemd에서 발견된 보안 취약점을 패치하기 위해 내일(11월 14일) 오후 8시에 GPU 서버를 재시작할 예정입니다.<br>진행 중인 작업이 강제 종료되지 않도록 재시작 전 미리 모든 작업을 안전하게 종료해 주시기 바랍니다.<br>해당 취약점에 대한 보다 자세한 정보는 이 <a href="https://security.archlinux.org/AVG-789" target="_blank" rel="noopener">링크</a>에서 확인하실 수 있습니다.<br>기타 문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
       
       <comments>https://bacchus.snucse.org/announcement/20181113announce/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>GPU 서버 계정 신청 안내</title>
-      <link>https://bacchus.snucse.org/announcement/20181010gpu/</link>
-      <guid>https://bacchus.snucse.org/announcement/20181010gpu/</guid>
-      <pubDate>Wed, 10 Oct 2018 11:14:00 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.&lt;/p&gt;
-&lt;p&gt;2018년 가을학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GTX 1080 서버&lt;ul&gt;
-&lt;li&gt;asahi.snuc
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>2018년 가을학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.</p><ul><li>GTX 1080 서버<ul><li>asahi.snucse.org</li><li>bernini.snucse.org</li><li>cojito.snucse.org</li><li>derby.snucse.org</li><li>eggnog.snucse.org</li><li>faust.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: Arch Linux</li><li>GPU: Nvidia Geforce GTX 1080</li><li>CPU: <a href="mailto:i7-7700@3.6GHz" target="_blank" rel="noopener">i7-7700@3.6GHz</a></li><li>RAM: 16GB</li></ul><p><a href="https://goo.gl/forms/Gl3wRmMkGOgql16B3" target="_blank" rel="noopener">이 설문조사</a>를 통해서 이용을 신청하실 수 있습니다.</p><p>모든 서버의 홈 디렉토리는 네트워크를 통해 공유되어 있으며, 사용자는 모든 서버에 접속이 가능합니다. 단, 한 사람이 서버를 독점하는 것을 방지하기 위해 한 번에 한 서버만을 사용하는 것을 허가합니다. 여러분의 양해 바랍니다. 보다 자세한 정보는 <a href="https://bacchus.snucse.org/etc/20181010-gpu-server/">이용 약관 및 안내</a>를 참고하여 주시기 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
-      
-      <comments>https://bacchus.snucse.org/announcement/20181010gpu/#disqus_thread</comments>
     </item>
     
   </channel>
