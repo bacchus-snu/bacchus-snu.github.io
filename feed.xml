@@ -8,8 +8,30 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Thu, 01 Aug 2019 07:46:30 GMT</pubDate>
+    <pubDate>Wed, 07 Aug 2019 07:15:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>martini, mimosa 점검 안내</title>
+      <link>https://bacchus.snucse.org/announcement/20190807server/</link>
+      <guid>https://bacchus.snucse.org/announcement/20190807server/</guid>
+      <pubDate>Tue, 06 Aug 2019 15:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자 모임 바쿠스입니다.&lt;/p&gt;
+&lt;p&gt;martini, mimosa 서버들에 대한 점검이 진행될 예정입니다. 점검 기간동안 해당 서버 사용이 재한되오니 작업하시던 내용은 저장해주시기 바랍니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;l
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자 모임 바쿠스입니다.</p><p>martini, mimosa 서버들에 대한 점검이 진행될 예정입니다. 점검 기간동안 해당 서버 사용이 재한되오니 작업하시던 내용은 저장해주시기 바랍니다.</p><ul><li>대상: martini, mimosa</li><li>기간: 2019-08-08 ~ 2019-08-15</li></ul><p>점검 중 상황에 따라 점검 기간이 연장될 수 있음을 유의하시길 바랍니다.</p><p>기타 문의 사항은 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a> 로 보내주시기 바랍니다. 감사합니다.</p>]]></content:encoded>
+      
+      <comments>https://bacchus.snucse.org/announcement/20190807server/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>컴퓨터공학부 통합계정 그룹 관리 시스템 사용 안내서</title>
@@ -194,26 +216,6 @@
       <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>금요일(7일) 오후 6시 경부터 학외망과 실습 서버 martini(martini.snucse.org)간의 통신이 불가능한 문제가 발생하고 있습니다.<br>문제가 해결되기 전까지는 실습 서버 mimosa(mimosa.snucse.org)를 경유하여 martini에 접속하여 주시길 바랍니다.<br>문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 주시기 바라며, 빠른 시일 내에 문제가 해결되도록 노력하겠습니다.</p><p>감사합니다.</p>]]></content:encoded>
       
       <comments>https://bacchus.snucse.org/announcement/20181208announce/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>GPU 서버 보안 업데이트 안내</title>
-      <link>https://bacchus.snucse.org/announcement/20181113announce/</link>
-      <guid>https://bacchus.snucse.org/announcement/20181113announce/</guid>
-      <pubDate>Tue, 13 Nov 2018 13:11:00 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.&lt;/p&gt;
-&lt;p&gt;최근 systemd에서 발견된 보안 취약점을 패치하기 위해 내일(11월 14일) 오후 8시에 GPU 서버를 재시작할 예정입니다.&lt;br&gt;진행 중인 작업이 강제 종료되지 않도록 재시
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>최근 systemd에서 발견된 보안 취약점을 패치하기 위해 내일(11월 14일) 오후 8시에 GPU 서버를 재시작할 예정입니다.<br>진행 중인 작업이 강제 종료되지 않도록 재시작 전 미리 모든 작업을 안전하게 종료해 주시기 바랍니다.<br>해당 취약점에 대한 보다 자세한 정보는 이 <a href="https://security.archlinux.org/AVG-789" target="_blank" rel="noopener">링크</a>에서 확인하실 수 있습니다.<br>기타 문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
-      
-      <comments>https://bacchus.snucse.org/announcement/20181113announce/#disqus_thread</comments>
     </item>
     
   </channel>
