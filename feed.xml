@@ -8,8 +8,50 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Wed, 07 Aug 2019 07:15:21 GMT</pubDate>
+    <pubDate>Mon, 14 Oct 2019 18:46:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>GPU 서버 계정 신청 안내</title>
+      <link>https://bacchus.snucse.org/announcement/20191015gpu/</link>
+      <guid>https://bacchus.snucse.org/announcement/20191015gpu/</guid>
+      <pubDate>Mon, 14 Oct 2019 15:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.&lt;/p&gt;
+&lt;p&gt;2019년 가을학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GTX 1080 서버&lt;ul&gt;
+&lt;li&gt;asahi.snuc
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>2019년 가을학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.</p><ul><li>GTX 1080 서버<ul><li>asahi.snucse.org</li><li>bernini.snucse.org</li><li>cojito.snucse.org</li><li>derby.snucse.org</li><li>eggnog.snucse.org</li><li>faust.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: Arch Linux</li><li>GPU: Nvidia Geforce GTX 1080</li><li>CPU: <a href="mailto:i7-7700@3.6GHz" target="_blank" rel="noopener">i7-7700@3.6GHz</a></li><li>RAM: 16GB</li></ul><p><a href="https://forms.gle/op1w36DcLRMy7z7i9" target="_blank" rel="noopener">이 설문조사</a>를 통해서 이용을 신청하실 수 있습니다.</p><p>설문 작성 후 <a href="https://id.snucse.org/group" target="_blank" rel="noopener">통합계정 관리 사이트</a>에서 GPU 서버 사용자 그룹에 가입 신청을 해주시기 바랍니다.</p><p>모든 서버의 홈 디렉토리는 네트워크를 통해 공유되어 있으며, 사용자는 모든 서버에 접속이 가능합니다. 단, 한 사람이 서버를 독점하는 것을 방지하기 위해 한 번에 한 서버만을 사용하는 것을 허가합니다. 여러분의 양해 바랍니다. 보다 자세한 정보는 <a href="https://bacchus.snucse.org/etc/20191015-gpu-server/">이용 약관 및 안내</a>를 참고하여 주시기 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
+      
+      <comments>https://bacchus.snucse.org/announcement/20191015gpu/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</title>
+      <link>https://bacchus.snucse.org/etc/20191015-gpu-server/</link>
+      <guid>https://bacchus.snucse.org/etc/20191015-gpu-server/</guid>
+      <pubDate>Mon, 14 Oct 2019 15:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot;&gt;&lt;a href=&quot;#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot; class=&quot;headerlink&quot; title=&quot;컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내&quot;&gt;&lt;/a&gt;컴퓨
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내"><a href="#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내" class="headerlink" title="컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내"></a>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</h1><h2 id="이용-대상"><a href="#이용-대상" class="headerlink" title="이용 대상"></a>이용 대상</h2><p>다음 중 하나 이상에 해당하는 경우 GPU 서버 사용을 신청할 수 있습니다.</p><ul><li>컴퓨터 공학부 구성원(복수전공, 부전공자 포함)</li><li>해당 학기에 컴퓨터공학부에서 열리는 강좌를 수강 중인 학생</li></ul><h2 id="사용자의-의무"><a href="#사용자의-의무" class="headerlink" title="사용자의 의무"></a>사용자의 의무</h2><ul><li>사용자는 이용 목적을 명확하게 밝혀야 하며, 학업과 무관한 목적으로 GPU 서버 사용을 신청하는 경우, 신청이 거부될 수 있습니다.</li><li>신청 후 신청한 목적과 다르게 GPU 서버를 사용(비트코인 채굴 등)하여서는 안 됩니다. 적발시, 최대 한 학기 동안 GPU 서버 사용이 금지될 수 있습니다.</li><li>root 계정 탈취를 시도하는 등, 서버의 정상적인 동작에 해를 가하는 행위를 시도해서는 안 됩니다.</li><li>다른 사용자의 계정을 탈취하거나, 다른 사용자의 파일을 무단으로 열람/변경하려는 시도를 해서는 안 됩니다.</li></ul><h2 id="이용-기간"><a href="#이용-기간" class="headerlink" title="이용 기간"></a>이용 기간</h2><p>발급된 계정은 2019년 1월 1일까지 사용 가능합니다. 기간 만료 후 계정이 삭제되므로, 그 전에 필요한 모든 데이터를 백업해두시길 바랍니다.</p><h2 id="이용-가능한-자원"><a href="#이용-가능한-자원" class="headerlink" title="이용 가능한 자원"></a>이용 가능한 자원</h2><p>계정을 발급받은 사용자는 GTX 1080이 장착된 6개의 GPU 서버(asahi, bernini, cojito, derby, eggnog, faust)를 사용할 수 있습니다.</p><h2 id="독점-방지"><a href="#독점-방지" class="headerlink" title="독점 방지"></a>독점 방지</h2><ul><li>GPU를 사용하는 작업의 특성상, 일반적으로 GPU 서버는 한 번에 한 명의 사용자만이 이용 가능합니다. 모든 사용자가 균등하게 GPU 서버를 이용할 수 있도록 한 사용자가 동시에 2대 이상의 서버에서 프로그램을 돌리는 것을 금지합니다. 적발시 최대 한 학기동안 GPU 서버 이용이 금지됩니다.</li><li>한 프로세스가 3일 초과하여 실행 중인 경우, 모든 GPU 서버가 포화상태이면 바쿠스에서 해당 프로세스를 경고 없이 종료할 수 있습니다.</li></ul><h2 id="기타-사항"><a href="#기타-사항" class="headerlink" title="기타 사항"></a>기타 사항</h2><ul><li>발급된 계정에는 root 권한이 제공되지 않습니다. 시스템 전역에 프로그램 설치가 필요한 경우, <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 바랍니다.</li><li>모든 서버의 홈 디렉토리는 네트워크를 통해 연동되어 있습니다. 서버의 로컬 저장소에 파일을 저장하고 싶으신 경우 /local 폴더를 이용해 주시기 바랍니다.</li></ul>]]></content:encoded>
+      
+      <comments>https://bacchus.snucse.org/etc/20191015-gpu-server/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>martini, mimosa 점검 안내</title>
@@ -176,46 +218,6 @@
       <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>오늘(12월 29일) 오전 9시 30분부터 302동 정전으로 인해 서비스가 중단될 예정입니다.작업 중인 내용이 손실되지 않도록 미리 모든 작업을 종료하시고 로그아웃 하여 주시기 바랍니다.</p><p>영향을 받는 서비스는 아래와 같습니다.</p><ul><li>martini, mimosa 등의 실습 서버</li><li>GPU 서버</li><li>302동 실습실 컴퓨터</li><li>301동 과방 컴퓨터</li><li>스누씨(<a href="https://www.snucse.org" target="_blank" rel="noopener">https://www.snucse.org</a>)</li><li>id 서비스(<a href="https://id.snucse.org" target="_blank" rel="noopener">https://id.snucse.org</a>)</li></ul><p>301동 과방 컴퓨터의 경우 302동 정전 중 로그인이 불가능합니다. 미리 로그인해 두실 경우 이용은 가능하나 홈 디렉토리 동기화가 되지 않아 데이터를 일부 손실할 수 있으므로 주의 바랍니다.</p><p>문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 주시기 바랍니다.<br>감사합니다.</p>]]></content:encoded>
       
       <comments>https://bacchus.snucse.org/announcement/20181229announce/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>martini 정상화 안내 및 보안 권고</title>
-      <link>https://bacchus.snucse.org/announcement/20181217announce/</link>
-      <guid>https://bacchus.snucse.org/announcement/20181217announce/</guid>
-      <pubDate>Sun, 16 Dec 2018 18:01:28 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.&lt;/p&gt;
-&lt;p&gt;지지난주 금요일에 발생한, 학외망에서 실습서버 마티니(martini.snucse.org) 간의 통신이 불가능한 문제가 지난 주 금요일 경 해결되었습니다.&lt;br&gt;원인은 보안 사고로
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>지지난주 금요일에 발생한, 학외망에서 실습서버 마티니(martini.snucse.org) 간의 통신이 불가능한 문제가 지난 주 금요일 경 해결되었습니다.<br>원인은 보안 사고로 인한 중앙전산원의 포트 차단이었습니다.<br>마티니 사용자 한 명이 지나치게 쉬운 암호문을 사용하여 ssh brute force(사전 대입) 공격에 계정을 탈취 당한 상태였고, 피해 계정의 홈폴더에는 모네로 채굴기와 irc 원격 명령 실행 프로그램이 설치되어 있었습니다.<br>그리고 공격자가 탈취한 계정을 이용해 마티니로부터 학외 서버에 ssh brute force 공격을 실행하였으며, 중앙전산원이 이를 감지하고 포트를 차단하였습니다.<br>현재는 해당 사용자를 블랙리스트 처리하고, 프로그램을 삭제한 후 학외 포트를 다시 개방하여 정상적으로 접근 가능한 상태입니다.</p><p>마티니가 컴퓨터 공학부 구성원 다수가 함께 사용하는 자원인 만큼, 보안은 상당히 중요한 이슈입니다.<br>스누씨 통합계정의 비밀번호를 주기적으로 변경하고, 10자 이상의, 유추하기 어려운 비밀번호를 사용함으로써 유사한 일이 발생하지 않도록 주의해 주시기 바랍니다.</p><p>문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 주시기 바랍니다.<br>감사합니다.</p>]]></content:encoded>
-      
-      <comments>https://bacchus.snucse.org/announcement/20181217announce/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>martini 접속 장애 안내</title>
-      <link>https://bacchus.snucse.org/announcement/20181208announce/</link>
-      <guid>https://bacchus.snucse.org/announcement/20181208announce/</guid>
-      <pubDate>Fri, 07 Dec 2018 16:23:28 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.&lt;/p&gt;
-&lt;p&gt;금요일(7일) 오후 6시 경부터 학외망과 실습 서버 martini(martini.snucse.org)간의 통신이 불가능한 문제가 발생하고 있습니다.&lt;br&gt;문제가 해결되기 전까지는
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께하는 관리자모임 바쿠스입니다.</p><p>금요일(7일) 오후 6시 경부터 학외망과 실습 서버 martini(martini.snucse.org)간의 통신이 불가능한 문제가 발생하고 있습니다.<br>문제가 해결되기 전까지는 실습 서버 mimosa(mimosa.snucse.org)를 경유하여 martini에 접속하여 주시길 바랍니다.<br>문의 사항이 있으시면 <a href="mailto:contact@bacchus.snucse.org">contact@bacchus.snucse.org</a>로 연락 주시기 바라며, 빠른 시일 내에 문제가 해결되도록 노력하겠습니다.</p><p>감사합니다.</p>]]></content:encoded>
-      
-      <comments>https://bacchus.snucse.org/announcement/20181208announce/#disqus_thread</comments>
     </item>
     
   </channel>
