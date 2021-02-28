@@ -9,8 +9,56 @@
     <atom:link href="https://bacchus.snucse.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Sun, 20 Dec 2020 15:34:21 GMT</pubDate>
+    <pubDate>Sun, 28 Feb 2021 09:03:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</title>
+      <link>https://bacchus.snucse.org/etc/gpu-server-user-agreement/</link>
+      <guid>https://bacchus.snucse.org/etc/gpu-server-user-agreement/</guid>
+      <pubDate>Sat, 27 Feb 2021 15:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot;&gt;&lt;a href=&quot;#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot; class=&quot;headerlink&quot; title=&quot;컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내&quot;&gt;&lt;/a&gt;컴퓨</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내"><a href="#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내" class="headerlink" title="컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내"></a>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</h1><h2 id="이용-대상"><a href="#이용-대상" class="headerlink" title="이용 대상"></a>이용 대상</h2><p>다음 중 하나 이상에 해당하는 경우 GPU 서버 사용을 신청할 수 있습니다.</p><ul><li>컴퓨터 공학부 구성원(복수전공, 부전공자 포함)</li><li>해당 학기에 컴퓨터공학부에서 열리는 강좌를 수강 중인 학생</li></ul><h2 id="사용자의-의무"><a href="#사용자의-의무" class="headerlink" title="사용자의 의무"></a>사용자의 의무</h2><ul><li>사용자는 이용 목적을 명확하게 밝혀야 하며, 학업과 무관한 목적으로 GPU 서버 사용을 신청하는 경우, 신청이 거부될 수 있습니다.</li><li>신청 후 신청한 목적과 다르게 GPU 서버를 사용(비트코인 채굴 등)하여서는 안 됩니다. 적발시, 최대 한 학기 동안 GPU 서버 사용이 금지될 수 있습니다.</li><li>root 계정 탈취를 시도하는 등, 서버의 정상적인 동작에 해를 가하는 행위를 시도해서는 안 됩니다.</li><li>다른 사용자의 계정을 탈취하거나, 다른 사용자의 파일을 무단으로 열람/변경하려는 시도를 해서는 안 됩니다.</li></ul><h2 id="이용-가능한-자원"><a href="#이용-가능한-자원" class="headerlink" title="이용 가능한 자원"></a>이용 가능한 자원</h2><p>계정을 발급받은 사용자는 GTX 1080이 장착된 6개의 GPU 서버(asahi, bernini, cojito, derby, eggnog, faust)를 사용할 수 있습니다.</p><h2 id="독점-방지"><a href="#독점-방지" class="headerlink" title="독점 방지"></a>독점 방지</h2><ul><li>GPU를 사용하는 작업의 특성상, 일반적으로 GPU 서버는 한 번에 한 명의 사용자만이 이용 가능합니다. 모든 사용자가 균등하게 GPU 서버를 이용할 수 있도록 한 사용자가 동시에 2대 이상의 서버에서 프로그램을 돌리는 것을 금지합니다. 적발시 최대 한 학기동안 GPU 서버 이용이 금지됩니다.</li><li>한 프로세스가 3일 초과하여 실행 중인 경우, 모든 GPU 서버가 포화상태이면 바쿠스에서 해당 프로세스를 경고 없이 종료할 수 있습니다.</li></ul><h2 id="기타-사항"><a href="#기타-사항" class="headerlink" title="기타 사항"></a>기타 사항</h2><ul><li>발급된 계정에는 root 권한이 제공되지 않습니다. 시스템 전역에 프로그램 설치가 필요한 경우, <a href="mailto:&#x63;&#x6f;&#x6e;&#116;&#x61;&#x63;&#116;&#64;&#x62;&#x61;&#x63;&#99;&#104;&#x75;&#115;&#x2e;&#x73;&#110;&#x75;&#99;&#x73;&#101;&#46;&#x6f;&#x72;&#103;">&#x63;&#x6f;&#x6e;&#116;&#x61;&#x63;&#116;&#64;&#x62;&#x61;&#x63;&#99;&#104;&#x75;&#115;&#x2e;&#x73;&#110;&#x75;&#99;&#x73;&#101;&#46;&#x6f;&#x72;&#103;</a>로 연락 바랍니다.</li><li>모든 서버의 홈 디렉토리는 네트워크를 통해 연동되어 있습니다. 서버의 로컬 저장소에 파일을 저장하고 싶으신 경우 /local 폴더를 이용해 주시기 바랍니다.</li></ul>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://bacchus.snucse.org/etc/gpu-server-user-agreement/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>GPU 서버 계정 신청 안내</title>
+      <link>https://bacchus.snucse.org/announcement/20210228gpu/</link>
+      <guid>https://bacchus.snucse.org/announcement/20210228gpu/</guid>
+      <pubDate>Sat, 27 Feb 2021 15:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.&lt;/p&gt;
+&lt;p&gt;2021년 봄학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GTX 1080 서버&lt;ul&gt;
+&lt;li&gt;asahi.snucs</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>2021년 봄학기 GPU 서버 이용 신청을 받고 있습니다. 이용 가능한 서버는 아래와 같습니다.</p><ul><li>GTX 1080 서버<ul><li>asahi.snucse.org</li><li>bernini.snucse.org</li><li>cojito.snucse.org</li><li>derby.snucse.org</li><li>eggnog.snucse.org</li><li>faust.snucse.org</li></ul></li></ul><p>위 서버의 스펙은 다음과 같습니다.</p><ul><li>OS: Arch Linux</li><li>GPU: Nvidia Geforce GTX 1080</li><li>CPU: <a href="mailto:&#x69;&#55;&#x2d;&#x37;&#55;&#48;&#48;&#x40;&#51;&#x2e;&#x36;&#x47;&#72;&#122;">&#x69;&#55;&#x2d;&#x37;&#55;&#48;&#48;&#x40;&#51;&#x2e;&#x36;&#x47;&#72;&#122;</a></li><li>RAM: 16GB</li></ul><p>발급된 계정은 2021년 8월 13일까지 이용 가능합니다. 기간 만료 후 계정이 삭제되므로, 그 전에 필요한<br>모든 데이터를 백업해두시길 바랍니다.</p><p><a href="https://forms.gle/TKPMWhBaE915XWPT6">이 설문조사</a>를 통해서 이용을 신청하실 수 있습니다.</p><p>설문 작성 후 <a href="https://id.snucse.org/group">통합계정 관리 사이트</a>에서 GPU 서버 사용자 그룹에 가입 신청을 해주시기 바랍니다.</p><p>모든 서버의 홈 디렉토리는 네트워크를 통해 공유되어 있으며, 사용자는 모든 서버에 접속이 가능합니다. 단, 한 사람이 서버를 독점하는 것을 방지하기 위해 한 번에 한 서버만을 사용하는 것을 허가합니다. 여러분의 양해 바랍니다. 보다 자세한 정보는 <a href="/etc/gpu-server-user-agreement/">이용 약관 및 안내</a>를 참고하여 주시기 바랍니다.</p><p>감사합니다.</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://bacchus.snucse.org/announcement/20210228gpu/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>바쿠스 서버 점검 안내</title>
@@ -86,28 +134,6 @@
     </item>
     
     <item>
-      <title>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</title>
-      <link>https://bacchus.snucse.org/etc/20200817-gpu-server/</link>
-      <guid>https://bacchus.snucse.org/etc/20200817-gpu-server/</guid>
-      <pubDate>Sun, 16 Aug 2020 15:00:00 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot;&gt;&lt;a href=&quot;#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot; class=&quot;headerlink&quot; title=&quot;컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내&quot;&gt;&lt;/a&gt;컴퓨</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내"><a href="#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내" class="headerlink" title="컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내"></a>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</h1><h2 id="이용-대상"><a href="#이용-대상" class="headerlink" title="이용 대상"></a>이용 대상</h2><p>다음 중 하나 이상에 해당하는 경우 GPU 서버 사용을 신청할 수 있습니다.</p><ul><li>컴퓨터 공학부 구성원(복수전공, 부전공자 포함)</li><li>해당 학기에 컴퓨터공학부에서 열리는 강좌를 수강 중인 학생</li></ul><h2 id="사용자의-의무"><a href="#사용자의-의무" class="headerlink" title="사용자의 의무"></a>사용자의 의무</h2><ul><li>사용자는 이용 목적을 명확하게 밝혀야 하며, 학업과 무관한 목적으로 GPU 서버 사용을 신청하는 경우, 신청이 거부될 수 있습니다.</li><li>신청 후 신청한 목적과 다르게 GPU 서버를 사용(비트코인 채굴 등)하여서는 안 됩니다. 적발시, 최대 한 학기 동안 GPU 서버 사용이 금지될 수 있습니다.</li><li>root 계정 탈취를 시도하는 등, 서버의 정상적인 동작에 해를 가하는 행위를 시도해서는 안 됩니다.</li><li>다른 사용자의 계정을 탈취하거나, 다른 사용자의 파일을 무단으로 열람/변경하려는 시도를 해서는 안 됩니다.</li></ul><h2 id="이용-기간"><a href="#이용-기간" class="headerlink" title="이용 기간"></a>이용 기간</h2><p>발급된 계정은 2021년 1월 31일까지 사용 가능합니다. 기간 만료 후 계정이 삭제되므로, 그 전에 필요한 모든 데이터를 백업해두시길 바랍니다.</p><h2 id="이용-가능한-자원"><a href="#이용-가능한-자원" class="headerlink" title="이용 가능한 자원"></a>이용 가능한 자원</h2><p>계정을 발급받은 사용자는 GTX 1080이 장착된 6개의 GPU 서버(asahi, bernini, cojito, derby, eggnog, faust)를 사용할 수 있습니다.</p><h2 id="독점-방지"><a href="#독점-방지" class="headerlink" title="독점 방지"></a>독점 방지</h2><ul><li>GPU를 사용하는 작업의 특성상, 일반적으로 GPU 서버는 한 번에 한 명의 사용자만이 이용 가능합니다. 모든 사용자가 균등하게 GPU 서버를 이용할 수 있도록 한 사용자가 동시에 2대 이상의 서버에서 프로그램을 돌리는 것을 금지합니다. 적발시 최대 한 학기동안 GPU 서버 이용이 금지됩니다.</li><li>한 프로세스가 3일 초과하여 실행 중인 경우, 모든 GPU 서버가 포화상태이면 바쿠스에서 해당 프로세스를 경고 없이 종료할 수 있습니다.</li></ul><h2 id="기타-사항"><a href="#기타-사항" class="headerlink" title="기타 사항"></a>기타 사항</h2><ul><li>발급된 계정에는 root 권한이 제공되지 않습니다. 시스템 전역에 프로그램 설치가 필요한 경우, <a href="mailto:&#x63;&#111;&#110;&#x74;&#97;&#x63;&#x74;&#x40;&#98;&#97;&#99;&#x63;&#x68;&#117;&#x73;&#46;&#x73;&#110;&#x75;&#99;&#x73;&#101;&#46;&#111;&#x72;&#103;">&#x63;&#111;&#110;&#x74;&#97;&#x63;&#x74;&#x40;&#98;&#97;&#99;&#x63;&#x68;&#117;&#x73;&#46;&#x73;&#110;&#x75;&#99;&#x73;&#101;&#46;&#111;&#x72;&#103;</a>로 연락 바랍니다.</li><li>모든 서버의 홈 디렉토리는 네트워크를 통해 연동되어 있습니다. 서버의 로컬 저장소에 파일을 저장하고 싶으신 경우 /local 폴더를 이용해 주시기 바랍니다.</li></ul>]]></content:encoded>
-      
-      
-      
-      
-      <comments>https://bacchus.snucse.org/etc/20200817-gpu-server/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>GPU 서버 계정 신청 안내</title>
       <link>https://bacchus.snucse.org/announcement/20200417gpu/</link>
       <guid>https://bacchus.snucse.org/announcement/20200417gpu/</guid>
@@ -130,28 +156,6 @@
       
       
       <comments>https://bacchus.snucse.org/announcement/20200417gpu/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</title>
-      <link>https://bacchus.snucse.org/etc/20200417-gpu-server/</link>
-      <guid>https://bacchus.snucse.org/etc/20200417-gpu-server/</guid>
-      <pubDate>Thu, 16 Apr 2020 15:00:00 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot;&gt;&lt;a href=&quot;#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot; class=&quot;headerlink&quot; title=&quot;컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내&quot;&gt;&lt;/a&gt;컴퓨</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내"><a href="#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내" class="headerlink" title="컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내"></a>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</h1><h2 id="이용-대상"><a href="#이용-대상" class="headerlink" title="이용 대상"></a>이용 대상</h2><p>다음 중 하나 이상에 해당하는 경우 GPU 서버 사용을 신청할 수 있습니다.</p><ul><li>컴퓨터 공학부 구성원(복수전공, 부전공자 포함)</li><li>해당 학기에 컴퓨터공학부에서 열리는 강좌를 수강 중인 학생</li></ul><h2 id="사용자의-의무"><a href="#사용자의-의무" class="headerlink" title="사용자의 의무"></a>사용자의 의무</h2><ul><li>사용자는 이용 목적을 명확하게 밝혀야 하며, 학업과 무관한 목적으로 GPU 서버 사용을 신청하는 경우, 신청이 거부될 수 있습니다.</li><li>신청 후 신청한 목적과 다르게 GPU 서버를 사용(비트코인 채굴 등)하여서는 안 됩니다. 적발시, 최대 한 학기 동안 GPU 서버 사용이 금지될 수 있습니다.</li><li>root 계정 탈취를 시도하는 등, 서버의 정상적인 동작에 해를 가하는 행위를 시도해서는 안 됩니다.</li><li>다른 사용자의 계정을 탈취하거나, 다른 사용자의 파일을 무단으로 열람/변경하려는 시도를 해서는 안 됩니다.</li></ul><h2 id="이용-기간"><a href="#이용-기간" class="headerlink" title="이용 기간"></a>이용 기간</h2><p>발급된 계정은 2020년 8월 1일까지 사용 가능합니다. 기간 만료 후 계정이 삭제되므로, 그 전에 필요한 모든 데이터를 백업해두시길 바랍니다.</p><h2 id="이용-가능한-자원"><a href="#이용-가능한-자원" class="headerlink" title="이용 가능한 자원"></a>이용 가능한 자원</h2><p>계정을 발급받은 사용자는 GTX 1080이 장착된 6개의 GPU 서버(asahi, bernini, cojito, derby, eggnog, faust)를 사용할 수 있습니다.</p><h2 id="독점-방지"><a href="#독점-방지" class="headerlink" title="독점 방지"></a>독점 방지</h2><ul><li>GPU를 사용하는 작업의 특성상, 일반적으로 GPU 서버는 한 번에 한 명의 사용자만이 이용 가능합니다. 모든 사용자가 균등하게 GPU 서버를 이용할 수 있도록 한 사용자가 동시에 2대 이상의 서버에서 프로그램을 돌리는 것을 금지합니다. 적발시 최대 한 학기동안 GPU 서버 이용이 금지됩니다.</li><li>한 프로세스가 3일 초과하여 실행 중인 경우, 모든 GPU 서버가 포화상태이면 바쿠스에서 해당 프로세스를 경고 없이 종료할 수 있습니다.</li></ul><h2 id="기타-사항"><a href="#기타-사항" class="headerlink" title="기타 사항"></a>기타 사항</h2><ul><li>발급된 계정에는 root 권한이 제공되지 않습니다. 시스템 전역에 프로그램 설치가 필요한 경우, <a href="mailto:&#99;&#111;&#110;&#116;&#x61;&#x63;&#x74;&#x40;&#x62;&#97;&#99;&#99;&#104;&#117;&#x73;&#x2e;&#x73;&#x6e;&#x75;&#x63;&#x73;&#x65;&#x2e;&#x6f;&#x72;&#x67;">&#99;&#111;&#110;&#116;&#x61;&#x63;&#x74;&#x40;&#x62;&#97;&#99;&#99;&#104;&#117;&#x73;&#x2e;&#x73;&#x6e;&#x75;&#x63;&#x73;&#x65;&#x2e;&#x6f;&#x72;&#x67;</a>로 연락 바랍니다.</li><li>모든 서버의 홈 디렉토리는 네트워크를 통해 연동되어 있습니다. 서버의 로컬 저장소에 파일을 저장하고 싶으신 경우 /local 폴더를 이용해 주시기 바랍니다.</li></ul>]]></content:encoded>
-      
-      
-      
-      
-      <comments>https://bacchus.snucse.org/etc/20200417-gpu-server/#disqus_thread</comments>
       
     </item>
     
@@ -207,28 +211,6 @@
     </item>
     
     <item>
-      <title>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</title>
-      <link>https://bacchus.snucse.org/etc/20191015-gpu-server/</link>
-      <guid>https://bacchus.snucse.org/etc/20191015-gpu-server/</guid>
-      <pubDate>Mon, 14 Oct 2019 15:00:00 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot;&gt;&lt;a href=&quot;#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내&quot; class=&quot;headerlink&quot; title=&quot;컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내&quot;&gt;&lt;/a&gt;컴퓨</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내"><a href="#컴퓨터-공학부-GPU-서버-이용-약관-및-사용-안내" class="headerlink" title="컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내"></a>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</h1><h2 id="이용-대상"><a href="#이용-대상" class="headerlink" title="이용 대상"></a>이용 대상</h2><p>다음 중 하나 이상에 해당하는 경우 GPU 서버 사용을 신청할 수 있습니다.</p><ul><li>컴퓨터 공학부 구성원(복수전공, 부전공자 포함)</li><li>해당 학기에 컴퓨터공학부에서 열리는 강좌를 수강 중인 학생</li></ul><h2 id="사용자의-의무"><a href="#사용자의-의무" class="headerlink" title="사용자의 의무"></a>사용자의 의무</h2><ul><li>사용자는 이용 목적을 명확하게 밝혀야 하며, 학업과 무관한 목적으로 GPU 서버 사용을 신청하는 경우, 신청이 거부될 수 있습니다.</li><li>신청 후 신청한 목적과 다르게 GPU 서버를 사용(비트코인 채굴 등)하여서는 안 됩니다. 적발시, 최대 한 학기 동안 GPU 서버 사용이 금지될 수 있습니다.</li><li>root 계정 탈취를 시도하는 등, 서버의 정상적인 동작에 해를 가하는 행위를 시도해서는 안 됩니다.</li><li>다른 사용자의 계정을 탈취하거나, 다른 사용자의 파일을 무단으로 열람/변경하려는 시도를 해서는 안 됩니다.</li></ul><h2 id="이용-기간"><a href="#이용-기간" class="headerlink" title="이용 기간"></a>이용 기간</h2><p>발급된 계정은 2019년 1월 1일까지 사용 가능합니다. 기간 만료 후 계정이 삭제되므로, 그 전에 필요한 모든 데이터를 백업해두시길 바랍니다.</p><h2 id="이용-가능한-자원"><a href="#이용-가능한-자원" class="headerlink" title="이용 가능한 자원"></a>이용 가능한 자원</h2><p>계정을 발급받은 사용자는 GTX 1080이 장착된 6개의 GPU 서버(asahi, bernini, cojito, derby, eggnog, faust)를 사용할 수 있습니다.</p><h2 id="독점-방지"><a href="#독점-방지" class="headerlink" title="독점 방지"></a>독점 방지</h2><ul><li>GPU를 사용하는 작업의 특성상, 일반적으로 GPU 서버는 한 번에 한 명의 사용자만이 이용 가능합니다. 모든 사용자가 균등하게 GPU 서버를 이용할 수 있도록 한 사용자가 동시에 2대 이상의 서버에서 프로그램을 돌리는 것을 금지합니다. 적발시 최대 한 학기동안 GPU 서버 이용이 금지됩니다.</li><li>한 프로세스가 3일 초과하여 실행 중인 경우, 모든 GPU 서버가 포화상태이면 바쿠스에서 해당 프로세스를 경고 없이 종료할 수 있습니다.</li></ul><h2 id="기타-사항"><a href="#기타-사항" class="headerlink" title="기타 사항"></a>기타 사항</h2><ul><li>발급된 계정에는 root 권한이 제공되지 않습니다. 시스템 전역에 프로그램 설치가 필요한 경우, <a href="mailto:&#x63;&#x6f;&#x6e;&#116;&#x61;&#99;&#116;&#x40;&#x62;&#x61;&#x63;&#x63;&#x68;&#x75;&#115;&#x2e;&#x73;&#x6e;&#117;&#99;&#115;&#x65;&#x2e;&#111;&#114;&#x67;">&#x63;&#x6f;&#x6e;&#116;&#x61;&#99;&#116;&#x40;&#x62;&#x61;&#x63;&#x63;&#x68;&#x75;&#115;&#x2e;&#x73;&#x6e;&#117;&#99;&#115;&#x65;&#x2e;&#111;&#114;&#x67;</a>로 연락 바랍니다.</li><li>모든 서버의 홈 디렉토리는 네트워크를 통해 연동되어 있습니다. 서버의 로컬 저장소에 파일을 저장하고 싶으신 경우 /local 폴더를 이용해 주시기 바랍니다.</li></ul>]]></content:encoded>
-      
-      
-      
-      
-      <comments>https://bacchus.snucse.org/etc/20191015-gpu-server/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>martini, mimosa 점검 안내</title>
       <link>https://bacchus.snucse.org/announcement/20190807server/</link>
       <guid>https://bacchus.snucse.org/announcement/20190807server/</guid>
@@ -250,6 +232,30 @@
       
       
       <comments>https://bacchus.snucse.org/announcement/20190807server/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>컴퓨터공학부 통합계정 그룹 관리 시스템 사용 안내서</title>
+      <link>https://bacchus.snucse.org/etc/20190801-id-instructions/</link>
+      <guid>https://bacchus.snucse.org/etc/20190801-id-instructions/</guid>
+      <pubDate>Wed, 31 Jul 2019 15:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;ul&gt;
+&lt;li&gt;수업조교용: &lt;a href=&quot;/contents/id-group-system_ta.pdf&quot;&gt;id-group-system_ta.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;수강생용: &lt;a href=&quot;/contents/id-group-system_stud</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<ul><li>수업조교용: <a href="/contents/id-group-system_ta.pdf">id-group-system_ta.pdf</a></li><li>수강생용: <a href="/contents/id-group-system_students.pdf">id-group-system_students.pdf</a></li><li>행정실용: <a href="/contents/id-group-system_office.pdf">id-group-system_office.pdf</a></li></ul>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://bacchus.snucse.org/etc/20190801-id-instructions/#disqus_thread</comments>
       
     </item>
     
