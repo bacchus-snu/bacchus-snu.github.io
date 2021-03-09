@@ -9,8 +9,32 @@
     <atom:link href="https://bacchus.snucse.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>서울대학교 컴퓨터공학부 관리자 그룹</description>
-    <pubDate>Sun, 28 Feb 2021 09:03:00 GMT</pubDate>
+    <pubDate>Tue, 09 Mar 2021 12:52:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>바쿠스에서 2021년 봄학기 신입회원을 모집합니다!</title>
+      <link>https://bacchus.snucse.org/announcement/2021-03-09-recruit/</link>
+      <guid>https://bacchus.snucse.org/announcement/2021-03-09-recruit/</guid>
+      <pubDate>Tue, 09 Mar 2021 13:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.&lt;/p&gt;
+&lt;p&gt;바쿠스에서 2021년 봄학기 신입회원을 모집합니다!&lt;/p&gt;
+&lt;h2 id=&quot;바쿠스란&quot;&gt;&lt;a href=&quot;#바쿠스란&quot; class=&quot;headerlink&quot; title=&quot;바쿠스란?&quot;&gt;&lt;/</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>안녕하세요, 여러분과 함께 하는 관리자모임 바쿠스입니다.</p><p>바쿠스에서 2021년 봄학기 신입회원을 모집합니다!</p><h2 id="바쿠스란"><a href="#바쿠스란" class="headerlink" title="바쿠스란?"></a>바쿠스란?</h2><p>바쿠스는 302동 하드웨어 실습실 PC, 컴퓨터공학부 과방 PC, 실습 서버를 비롯한 20여 대의 서버와 이것들을 이용할 수 있는 통합계정을 관리하는 등 다양한 서비스를 컴퓨터공학부 구성원에게 제공하는 동아리입니다.</p><h2 id="신입교육"><a href="#신입교육" class="headerlink" title="신입교육"></a>신입교육</h2><p>지원하신 분들은 6개월간 준회원으로 교육을 받습니다! 리눅스에 대한 전반적인 교육과 리눅스에서 사용하는 Shell Script, 네트워크, DB 등에 대한 교육도 진행됩니다. 준회원 기간 종료 후 과제와 출석률 달성을 통해 정회원으로 승격됩니다.</p><h2 id="지원방법"><a href="#지원방법" class="headerlink" title="지원방법"></a>지원방법</h2><p>3월 28일(일)까지 <a href="https://forms.gle/YTUQwV4BFgzr9V1h7">설문조사</a>에 응답하시면 됩니다. 서울대 학생이면 누구나 지원 가능하니 부담 갖지 말고 신청해주세요!</p><h2 id="OT-및-신환회"><a href="#OT-및-신환회" class="headerlink" title="OT 및 신환회"></a>OT 및 신환회</h2><p>코로나19로 인하여 OT는 비대면으로 진행하며, 신환회는 진행하지 않습니다.</p><p>많은 지원 부탁드려요~</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://bacchus.snucse.org/announcement/2021-03-09-recruit/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>컴퓨터 공학부 GPU 서버 이용 약관 및 사용 안내</title>
@@ -232,30 +256,6 @@
       
       
       <comments>https://bacchus.snucse.org/announcement/20190807server/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>컴퓨터공학부 통합계정 그룹 관리 시스템 사용 안내서</title>
-      <link>https://bacchus.snucse.org/etc/20190801-id-instructions/</link>
-      <guid>https://bacchus.snucse.org/etc/20190801-id-instructions/</guid>
-      <pubDate>Wed, 31 Jul 2019 15:00:00 GMT</pubDate>
-      
-        
-        
-      <description>&lt;ul&gt;
-&lt;li&gt;수업조교용: &lt;a href=&quot;/contents/id-group-system_ta.pdf&quot;&gt;id-group-system_ta.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;수강생용: &lt;a href=&quot;/contents/id-group-system_stud</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<ul><li>수업조교용: <a href="/contents/id-group-system_ta.pdf">id-group-system_ta.pdf</a></li><li>수강생용: <a href="/contents/id-group-system_students.pdf">id-group-system_students.pdf</a></li><li>행정실용: <a href="/contents/id-group-system_office.pdf">id-group-system_office.pdf</a></li></ul>]]></content:encoded>
-      
-      
-      
-      
-      <comments>https://bacchus.snucse.org/etc/20190801-id-instructions/#disqus_thread</comments>
       
     </item>
     
